@@ -1,2 +1,2 @@
-# node-auth
-Basic authentication with Node.js and React.js + Redux
+# Basic authentication with Node.js 
+
